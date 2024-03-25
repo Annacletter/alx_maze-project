@@ -21,6 +21,6 @@ If the keys w and s are pressed in the same time, the player shouldn’t move. I
 
 #Document for "Maze-licious" 
 
-https://docs.google.com/document/d/15Rz7n2-mZ8F5ZQkez63Zxu2gn3cz7ZM6IeA5oXnKRpg/edit?usp=drivesdk 
+https://docs.google.com/document/d/17c9F1tORUKDi2XRtXBhAWHzUf83uxE48rJCwabaudV0/edit 
 
 ###Authors/Creators @Annacletter @Lulekoh
