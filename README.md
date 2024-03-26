@@ -1,5 +1,11 @@
 #####Tasks 0. Walls ! In this first part, you’ll have to:
 
+#Images
+* Folder file carrying the images of our
+* Caracters/Avators/Players
+* Red flag that shows that the player has reach deatination/won
+* Fail massage for wrong exit tge menu bar to restart
+
 Create a window with SDL2 Use raycasting to draw walls on your window ! You don’t need to be able to rotate the camera during the execution in this part, but you must provide a way to change the angle of the camera in your code to see if it works after recompiling it The color of the walls must be different from the color of the ground/ceil The map doesn’t need to be parsed from a file, but you must provide a way to modify it in your code to see if it works after recompiling it. (e.g. using an array of arrays of integers or characters).
 
 Orientation In this part, you must draw a different color depending on the orientation of the walls.
