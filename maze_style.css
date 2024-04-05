@@ -2,6 +2,7 @@
 
 html, body {
 	 background-image: url('https://github.com/Annacletter/alx_maze-project/blob/master/images/avatars.jpg');
+
    	 background-size: cover; /* Adjust as needed */
    	 background-position: center; /* Adjust as needed */
     	 background-repeat: no-repeat; /* Adjust as needed */
