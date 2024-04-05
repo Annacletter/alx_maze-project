@@ -12,6 +12,11 @@ html, body {
     right: 0;
     background-color: #fff;
     font-family: 'Poppins', sans-serif;
+body {
+    background-image: url('images/avatar.jpg');
+    background-size: cover; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+    background-repeat: no-repeat; /* Adjust as needed */
 }
 
 #view {
