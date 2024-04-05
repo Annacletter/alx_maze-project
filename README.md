@@ -1,4 +1,36 @@
 #####Tasks 0. Walls ! In this first part, you’ll have to:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Project Name</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Your Project Name</h1>
+        <nav>
+            <ul>
+                <li><a href="#intro">Intro</a></li>
+                <!-- Add more navigation links as needed -->
+            </ul>
+        </nav>
+    </header>
+
+    <section id="intro">
+        <div class="intro-content">
+            <img src="cover-image.jpg" alt="Cover Image">
+            <p>A one-line phrase and/or description of your project.</p>
+            <a href="deployed-project-link" class="button">Deployed Project</a>
+        </div>
+    </section>
+
+    <!-- Add more sections as needed -->
+
+    <script src="script.js"></script>
+</body>
+</html>
 
 #Images
 * Folder file carrying the images of our
